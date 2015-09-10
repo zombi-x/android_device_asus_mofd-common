@@ -234,8 +234,8 @@ PRODUCT_COPY_FILES += \
     device/asus/mofd-common/keylayout/Vendor_0b05_Product_1803.kl:system/usr/keylayout/Vendor_0b05_Product_1803.kl
 
 # Keyhandler
-PRODUCT_PACKAGES += \
-    com.cyanogenmod.keyhandler
+# PRODUCT_PACKAGES += \
+#    com.cyanogenmod.keyhandler
 
 #GFX Config
 PRODUCT_COPY_FILES += \
